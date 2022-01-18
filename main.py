@@ -2,7 +2,7 @@
 
 
 import tkinter as tk
-from tkinter import  messagebox
+from tkinter import messagebox
 
 class Tela:
     def __init__(self, master):
